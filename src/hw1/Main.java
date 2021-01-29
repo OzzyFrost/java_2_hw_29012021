@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("hello world!");
+        System.out.println("пока пока!");
     }
 }
